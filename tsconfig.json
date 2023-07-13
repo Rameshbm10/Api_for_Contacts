@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "esModuleInterop": true,
+        "target": "ES6",
+        "moduleResolution": "Node",
+        "outDir": "dist",
+        "baseUrl": ".",
+        "sourceMap": true
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+}
